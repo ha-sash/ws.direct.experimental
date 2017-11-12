@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "func-names": ["error", "never"],
+    "linebreak-style": 0,
+    "no-underscore-dangle": 0,
+    "no-param-reassign": 0,
+    "no-console": 0,
+    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ws.direct.api",
+  "version": "1.0.0",
+  "description": "We try use ws.direct in typescript project",
+  "main": "dist/index.js",
+  "typings": "dist/export.d.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "test"
+  },
+  "author": "Moskvitin Aleksandr",
+  "license": "ISC",
+  "dependencies": {
+    "ws.direct": "file:../../ws.direct"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.51"
+  }
+}

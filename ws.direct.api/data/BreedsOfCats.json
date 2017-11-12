@@ -1,0 +1,381 @@
+[
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Valentino.jpg/100px-Valentino.jpg",
+    "name": "Абиссинская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Australian_Mist.jpg/100px-Australian_Mist.jpg",
+    "name": "Австралийский мист"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BrownVarientAsianCat.JPG/100px-BrownVarientAsianCat.JPG",
+    "name": "Азиатская (табби)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/ru/thumb/b/ba/%D0%90%D0%BA%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82.jpg/100px-%D0%90%D0%BA%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82.jpg",
+    "name": "Акринская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/American_bobtail.jpg/100px-American_bobtail.jpg",
+    "name": "Американский бобтейл длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TICO_%288%29.jpg/100px-TICO_%288%29.jpg",
+    "name": "Американский бобтейл короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG/100px-American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG",
+    "name": "Американская жесткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/American_curl_2.jpg/100px-American_curl_2.jpg",
+    "name": "Американский кёрл длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/American_curl_kitten.jpg/100px-American_curl_kitten.jpg",
+    "name": "Американский кёрл короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jewelkatz_Romeo_Of_Stalker-Bars.jpg/100px-Jewelkatz_Romeo_Of_Stalker-Bars.jpg",
+    "name": "Американская короткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cat_0063.JPG/100px-Cat_0063.JPG",
+    "name": "Анатолийская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arabian_Mau_Cat.jpg/100px-Arabian_Mau_Cat.jpg",
+    "name": "Аравийский мау"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Balinese-cat-2.jpg/100px-Balinese-cat-2.jpg",
+    "name": "Балинезийская (Балинез, балийская)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brown_spotted_tabby_bengal_cat.jpg/100px-Brown_spotted_tabby_bengal_cat.jpg",
+    "name": "Бенгальская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/ru/thumb/0/0a/Bombaycat.jpg/100px-Bombaycat.jpg",
+    "name": "Бомбейская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gato_pelo_curto_brasileiro.JPG/100px-Gato_pelo_curto_brasileiro.JPG",
+    "name": "Бразильская короткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Longhair_-_Black_Silver_Shaded.jpg/100px-British_Longhair_-_Black_Silver_Shaded.jpg",
+    "name": "Британская длинношёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mystica_from_British_Empire_Cattery.jpg/100px-Mystica_from_British_Empire_Cattery.jpg",
+    "name": "Британская короткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Burmakatze-chocolate.JPG/100px-Burmakatze-chocolate.JPG",
+    "name": "Бурма (Бурманская)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Male_Burmilla_cat.jpeg/100px-Male_Burmilla_cat.jpeg",
+    "name": "Бурмилла длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burmilla_male-cat.jpg/100px-Burmilla_male-cat.jpg",
+    "name": "Бурмилла короткошёрстный"
+  },
+  {
+    "name": "Гавана"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sonny_Bunny.jpg/100px-Sonny_Bunny.jpg",
+    "name": "Гималайская кошка"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Devon_Rex_Izzy.jpg/100px-Devon_Rex_Izzy.jpg",
+    "name": "Девон рекс"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grey_Longhaired_Female_Cat.jpg/100px-Grey_Longhaired_Female_Cat.jpg",
+    "name": "Домашняя"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sphynx_pyrel_H019.jpg/100px-Sphynx_pyrel_H019.jpg",
+    "name": "Донской сфинкс"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/European-cat_show_Helsinki_2008.JPG/100px-European-cat_show_Helsinki_2008.JPG",
+    "name": "Кельтская (Европейская короткошёрстная)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Egyptian_Mau_Bronze.jpg/100px-Egyptian_Mau_Bronze.jpg",
+    "name": "Египетская мау"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/York_Chocolate.jpg/100px-York_Chocolate.jpg",
+    "name": "Йорк"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Spangled_Cat.jpg/100px-Star_Spangled_Cat.jpg",
+    "name": "Калифорнийская сияющая"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kanaani_like_Cat_Tufted_Ear-My_Cat_Cirmos.JPG/100px-Kanaani_like_Cat_Tufted_Ear-My_Cat_Cirmos.JPG",
+    "name": "Канаани"
+  },
+  {
+    "name": "Карельский бобтейл длинношёрстный"
+  },
+  {
+    "name": "Карельский бобтейл короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG/100px-Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG",
+    "name": "Кимрик"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Veda%2Cchat-adulte-m%C3%A2le-race-korat.JPG/100px-Veda%2Cchat-adulte-m%C3%A2le-race-korat.JPG",
+    "name": "Корат"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BebopsLilacPrince.JPG/100px-BebopsLilacPrince.JPG",
+    "name": "Корниш рекс"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kurilian_bobtail.JPG/100px-Kurilian_bobtail.JPG",
+    "name": "Курильский бобтейл длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kuril_bobtail_tishka.JPG/100px-Kuril_bobtail_tishka.JPG",
+    "name": "Курильский бобтейл короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Laperm_LH_red_tabby.jpg/100px-Laperm_LH_red_tabby.jpg",
+    "name": "Лаперм длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Laperm_SH_blackwhite.jpg/100px-Laperm_SH_blackwhite.jpg",
+    "name": "Лаперм короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Longhairedmunchkin.jpg/100px-Longhairedmunchkin.jpg",
+    "name": "Манчкин длинношёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Munchkinshorthaired.jpg/100px-Munchkinshorthaired.jpg",
+    "name": "Манчкин короткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%9A%D0%BE%D1%82.jpg/100px-%D0%9A%D0%BE%D1%82.jpg",
+    "name": "Мейн-кун"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mekong_bobtail_kitten_lynx_point.jpg/100px-Mekong_bobtail_kitten_lynx_point.jpg",
+    "name": "Меконгский бобтейл"
+  },
+  {
+    "name": "Минскин"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Japanese_Bobtail_looking_like_Manx.jpg/100px-Japanese_Bobtail_looking_like_Manx.jpg",
+    "name": "Мэнкс (Мэнская кошка)"
+  },
+  {
+    "name": "Наполеон"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Elmo_vom_Hause_Jung.jpg/100px-Elmo_vom_Hause_Jung.jpg",
+    "name": "Немецкий рекс"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nebelung_Male%2C_Aleksandr_van_Song_de_Chine.JPG/100px-Nebelung_Male%2C_Aleksandr_van_Song_de_Chine.JPG",
+    "name": "Нибелунг"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Norwegian_forest_cat.jpg/100px-Norwegian_forest_cat.jpg",
+    "name": "Норвежская лесная"
+  },
+  {
+    "name": "Орегон-рекс"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oriental_Longhair_%28Javanese%2C_Mandarin%29%2C_Red_Classic_Tabby.jpg/100px-Oriental_Longhair_%28Javanese%2C_Mandarin%29%2C_Red_Classic_Tabby.jpg",
+    "name": "Ориентальная длинношёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/OrientalnikockaPHRAYA.jpg/100px-OrientalnikockaPHRAYA.jpg",
+    "name": "Ориентальная короткошёрстная"
+  },
+  {
+    "name": "Охос азулес"
+  },
+  {
+    "name": "Охос азулес длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lavender_Chocolate_Ocicats.jpg/100px-Lavender_Chocolate_Ocicats.jpg",
+    "name": "Оцикет"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Persialainen.jpg/100px-Persialainen.jpg",
+    "name": "Персидская (Колорпойнт)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PersanColourpointRedPoint.jpg/100px-PersanColourpointRedPoint.jpg",
+    "name": "Колорпойнт"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tamila_the_lilac_tabby_Peterbald_cat.jpg/100px-Tamila_the_lilac_tabby_Peterbald_cat.jpg",
+    "name": "Петерболд"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/AnsonRoadIceLynx3MonthOldPixieBobfemaleLongHair.JPG/100px-AnsonRoadIceLynx3MonthOldPixieBobfemaleLongHair.JPG",
+    "name": "Пиксибоб длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FemalePixieBob.jpg/100px-FemalePixieBob.jpg",
+    "name": "Пиксибоб короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20050922AmarilloRes.jpg/100px-20050922AmarilloRes.jpg",
+    "name": "Рагамаффин"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Russian_Blue_001.gif/100px-Russian_Blue_001.gif",
+    "name": "Русская голубая"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ragdoll_from_Gatil_Ragbelas.jpg/100px-Ragdoll_from_Gatil_Ragbelas.jpg",
+    "name": "Рэгдолл"
+  },
+  {
+    "name": "Саванна"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Birmakatze_Seal-Point.jpg/100px-Birmakatze_Seal-Point.jpg",
+    "name": "Священная бирманская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Seychellois_longhair-nummela_Cat_Show.JPG/100px-Seychellois_longhair-nummela_Cat_Show.JPG",
+    "name": "Сейшельская длинношёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Seychellois_at_J%C3%A4ms%C3%A4_Cat_show.JPG/100px-Seychellois_at_J%C3%A4ms%C3%A4_Cat_show.JPG",
+    "name": "Сейшельская короткошёрстная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Abra_3.jpg/100px-Abra_3.jpg",
+    "name": "Селкирк рекс длинношёрстный"
+  },
+  {
+    "name": "Селкирк рекс короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Serengetimalecat.jpg/100px-Serengetimalecat.jpg",
+    "name": "Серенгети"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Siam_lilacpoint.jpg/100px-Siam_lilacpoint.jpg",
+    "name": "Сиамская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bugsy_outside18.jpg/100px-Bugsy_outside18.jpg",
+    "name": "Сибирская"
+  },
+  {
+    "name": "Скиф-тай-дон"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linusnevamasquarade.jpg/100px-Linusnevamasquarade.jpg",
+    "name": "Невская маскарадная"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kero_-_singapura_-_cropped.jpg/100px-Kero_-_singapura_-_cropped.jpg",
+    "name": "Сингапурская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Scottish_Fold_-_CFF_cat_show_Heinola_2008-05-03_IMG_7882.JPG/100px-Scottish_Fold_-_CFF_cat_show_Heinola_2008-05-03_IMG_7882.JPG",
+    "name": "Скоттиш фолд"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Snowshoe_%28cat%29.JPG/100px-Snowshoe_%28cat%29.JPG",
+    "name": "Сноу-Шу"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sokoke_dalili.jpg/100px-Sokoke_dalili.jpg",
+    "name": "Сококе"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/ru/thumb/e/e1/%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.jpg/100px-%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.jpg",
+    "name": "Сомали"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sphinx2_July_2006.jpg/100px-Sphinx2_July_2006.jpg",
+    "name": "Сфинкс (канадский)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sandypoints_Chakri.jpg/100px-Sandypoints_Chakri.jpg",
+    "name": "Тайская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Black_cat_on_Fluffy.jpg/100px-Black_cat_on_Fluffy.jpg",
+    "name": "Шантильи Тиффаны"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Toyger_-_Cornish_Rex_presentation_show_Riihim%C3%A4ki_2008-11-16_IMG_0101.JPG/100px-Toyger_-_Cornish_Rex_presentation_show_Riihim%C3%A4ki_2008-11-16_IMG_0101.JPG",
+    "name": "Тойгер"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Eoleet_Arcadia.jpg/100px-Eoleet_Arcadia.jpg",
+    "name": "Тонкинская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkse_angora.jpg/100px-Turkse_angora.jpg",
+    "name": "Турецкая ангора"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/ru/thumb/f/f7/TUV_Verdian_Cihangir_Heikki_Siltala_2%28d63%29.jpg/100px-TUV_Verdian_Cihangir_Heikki_Siltala_2%28d63%29.jpg",
+    "name": "Турецкий ван"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ukrainian_Levkoy_cat.jpg/100px-Ukrainian_Levkoy_cat.jpg",
+    "name": "Украинский левкой"
+  },
+  {
+    "name": "Уральский рекс длинношёрстный"
+  },
+  {
+    "name": "Уральский рекс короткошёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oriental_Shorthair_Blue_Eyed_White_cat_%28juvenile%29.jpg/100px-Oriental_Shorthair_Blue_Eyed_White_cat_%28juvenile%29.jpg",
+    "name": "Форин Вайт"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chausiecatexample.jpg/100px-Chausiecatexample.jpg",
+    "name": "Чаузи"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chartreux-Bonheur-nuits_indiennes-neige2009.jpg/100px-Chartreux-Bonheur-nuits_indiennes-neige2009.jpg",
+    "name": "Шартрез"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Aegean_cat.jpg/100px-Aegean_cat.jpg",
+    "name": "Эгейская"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cream_tabby_exotic_cat.jpg/100px-Cream_tabby_exotic_cat.jpg",
+    "name": "Экзотическая"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Javanese_cat.jpg/100px-Javanese_cat.jpg",
+    "name": "Яванез (Яванская кошка)"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Catbob.JPG/100px-Catbob.JPG",
+    "name": "Японский бобтейл длинношёрстный"
+  },
+  {
+    "img": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/JapaneseBobtailBlueEyedMi-ke.JPG/100px-JapaneseBobtailBlueEyedMi-ke.JPG",
+    "name": "Японский бобтейл короткошёрстный"
+  }
+]
